@@ -4,14 +4,11 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Sergei Surovtsev
-title: ПТУ Programmer
+title: Programmer
 email: cyberwizard.ru@gmail.com
 
 # Social links
 github_username:  cwiz
-
-# Projects Section
-# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
