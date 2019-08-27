@@ -34,12 +34,12 @@
   link: https://github.com/cwiz/RoboND-Perception-Project/blob/master/README.md
   description: Our fellow quadcopter returns, but now equipped with neural networks it has to find and ~~destroy~~ follow target. Semantic Segmentation.
 - layout: top-middle
-  name: 2019 May -- Udacity Deep Reinforcement Learning Nanodegree - Navigation
+  name: 2019 July -- Udacity Deep Reinforcement Learning Nanodegree - Navigation
   github: https://github.com/cwiz/DRLND-Project-Navigation
   link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
   description: You are spawned in a square world with no recollection of who you are. Blue and yellow bananas fall from ceiling. You feel good when you pick up a yellow one. Reinforcement Learning. Deep-Q-Networks.
 - layout: top-middle
-  name: 2019 May -- Udacity Deep Reinforcement Learning Nanodegree - Navigation
+  name: 2019 August -- Udacity Deep Reinforcement Learning Nanodegree - Navigation
   github: https://github.com/cwiz/DRLND-Project-Continuous_Control/tree/ok
   link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/ok/WRITEUP.md
   description: Two environments: Robotic Arm and Ant-Robot have to learn their jobs namely reach a target and walk. Using Policy Optimization to air their learning. Soft Actor-Critics, Proximal Policy Optimization.
