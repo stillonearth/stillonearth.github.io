@@ -40,6 +40,6 @@
   dates: 2019, July
 - layout: top
   name: Udacity Deep Reinforcement Learning Nanodegree - Continous Control via Policy Optimization
-  link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/ok/WRITEUP.md
+  link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/master/WRITEUP.md
   description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics (SSA), Proximal Policy Optimization (PPO).
   dates: 2019, August
