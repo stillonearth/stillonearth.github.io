@@ -34,12 +34,12 @@
   description: Our fellow quadcopter returns, but now equipped with neural networks it has to find and ~~destroy~~ follow target. Semantic Segmentation.
   dates: 2019, May
 - layout: top
-  name: Udacity Deep Reinforcement Learning Nanodegree - Navigation
+  name: Udacity Deep Reinforcement Learning Nanodegree - Navigation via Deep-Q-Networks
   link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
   description: You are spawned in a square world with no recollection of who you are. Blue and yellow bananas fall from ceiling. You feel good when you pick up a yellow one. Reinforcement Learning. Deep-Q-Networks.
   dates: 2019, July
 - layout: top
-  name: Udacity Deep Reinforcement Learning Nanodegree - Navigation
+  name: Udacity Deep Reinforcement Learning Nanodegree - Continous Control via Policy Optimization
   link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/ok/WRITEUP.md
   description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics, Proximal Policy Optimization.
   dates: 2019, August
