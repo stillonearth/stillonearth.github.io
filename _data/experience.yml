@@ -8,19 +8,19 @@
   description: | # this will include new lines to allow paragraphs
     During my time at Ostrovok I've learned what proper tech company should look like, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python, but real thing was culture of course.
 - layout: left
-  company: Ostrovok.ru
-  link: ostrovok.ru
+  company: Shopster
+  link: getshopster.com
   job_title: Programmer
   dates: 2013 - 2015
   quote: >
-    Shopster was a logical continuation of my MAI diploma. Idea was that people get lost in malls and solution was to use ambient wireless signal to help them track their way indors. Another cool singal was ambient magnetic fields, and it made solution even more precise. Real world needed something else than just cool tech, so company pivoted to "Google Analytics for people counting" by tapping WiFi signals form their phones. The team was assembled and then funding raised. Then I was fired. Cool.
+    Inndor Navigation and Foot-fall Analytics by means of WiFi sniffing
   description: | # this will include new lines to allow paragraphs
-    Well, starups are cool. And hard. And you wear multiple hats. The project is still alive which is cool.
+    Shopster was a logical continuation of my MAI diploma. Idea was that people get lost in malls and solution was to use ambient wireless signal to help them track their way indors. Another cool singal was ambient magnetic fields, and it made solution even more precise. Real world needed something else than just cool tech, so company pivoted to "Google Analytics for people counting" by tapping WiFi signals form their phones. The team was assembled and then funding raised. Then I was fired. Cool.
 - layout: left
   company: self-employed
   job_title: Hobo-Programmer
   dates: 2015 - now
   quote: >
-    Mostly keeping up with latest Computer Science. Neural Networks, Reinforcement Learning, Quantum Computers and Robotics
+    Mostly Computer Science
   description: | # this will include new lines to allow paragraphs
-    25 through 30.
+    Mostly keeping up with latest Computer Science. Neural Networks, Reinforcement Learning, Quantum Computers and Robotics
