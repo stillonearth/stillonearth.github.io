@@ -1,44 +1,44 @@
-- layout: top-right
+- layout: top
   name: Udacity Flying Car Nanodegree - Motion Planning
   link: https://github.com/cwiz/udacity-flying-car-motion-planning/blob/master/WRITEUP.md
   description: Motion Planning for Quadcopters in Urban Environment
   dates: 2018, September
-- layout: top-right
+- layout: top
   name: Udacity Flying Car Nanodegree - Controls
   link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
   description: PID-controller in C++ for a Quadcopters
   dates: 2018, September
-- layout: top-right
+- layout: top
   name: Udacity Flying Car Nanodegree - Estiamtion
   link: https://github.com/cwiz/udacity-flying-car-cpp-estimation/blob/master/WRITEUP.md
   description: Kalman Filter in C++ for estimating quadcopter's state in real-world environment
   dates: 2018, October
-- layout: top-right
+- layout: top
   name: Udacity Robotics Software Engineer Nanodegree - Mars Rover
   link: https://github.com/cwiz/RoboND-Rover-Project/blob/master/README.md
   description: Mars Rover exploring Mars surface and collecting yellow stones.
   dates: 2018, December
-- layout: top-right
+- layout: top
   name: Udacity Robotics Software Engineer Nanodegree - Mars Rover
   link: https://github.com/cwiz/RoboND-Kinematics-Project/blob/master/README.md
   description: A robotic arm in simulated Gazebo environment has to perform pick-and-place using Robot Operating System. Inverse and forward kinematics, industrial robots.
   dates: 2019, March
-- layout: top-right
+- layout: top
   name: Udacity Robotics Software Engineer Nanodegree - Perception
   link: https://github.com/cwiz/RoboND-Perception-Project/blob/master/README.md
   description: Using PR2 robot's 3D-camera to identify objects. Point clouds.
   dates: 2019, March
-- layout: top-right
+- layout: top
   name: Udacity Robotics Software Engineer Nanodegree - Semantic Segmentation
   link: https://github.com/cwiz/RoboND-Perception-Project/blob/master/README.md
   description: Our fellow quadcopter returns, but now equipped with neural networks it has to find and ~~destroy~~ follow target. Semantic Segmentation.
   dates: 2019, May
-- layout: top-right
+- layout: top
   name: Udacity Deep Reinforcement Learning Nanodegree - Navigation
   link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
   description: You are spawned in a square world with no recollection of who you are. Blue and yellow bananas fall from ceiling. You feel good when you pick up a yellow one. Reinforcement Learning. Deep-Q-Networks.
   dates: 2019, July
-- layout: top-right
+- layout: top
   name: Udacity Deep Reinforcement Learning Nanodegree - Navigation
   link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/ok/WRITEUP.md
   description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics, Proximal Policy Optimization.
