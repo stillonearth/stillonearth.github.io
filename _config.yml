@@ -4,18 +4,11 @@ repository: sproogen/resume-theme
 
 # Personal info
 name: Sergei Surovtsev
-title: Hobo Programmer
+title: Programmer
 email: cyberwizard.ru@gmail.com
 
 # Social links
 github_username:  cwiz
-
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Learning new stuff.
-
 
 # Projects Section
 # projects_title: Projects
