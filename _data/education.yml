@@ -1,8 +1,7 @@
-- layout: left
+- layout: top
   name: Moscow Aviation Institute
   dates: 2006 - 2013
   qualification: MSc Computer Science
-  quote:
   description: >
     The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
     |
