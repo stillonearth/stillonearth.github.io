@@ -36,10 +36,10 @@
 - layout: top
   name: Udacity Deep Reinforcement Learning Nanodegree - Navigation via Deep-Q-Networks
   link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
-  description: You are spawned in a square world with no recollection of who you are. Blue and yellow bananas fall from ceiling. You feel good when you pick up a yellow one. Reinforcement Learning. Deep-Q-Networks.
+  description: An agent collecting bananas in square world. Discreet control, Deep-Q-Networks (DQN).
   dates: 2019, July
 - layout: top
   name: Udacity Deep Reinforcement Learning Nanodegree - Continous Control via Policy Optimization
   link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/ok/WRITEUP.md
-  description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics, Proximal Policy Optimization.
+  description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics (SSA), Proximal Policy Optimization (PPO).
   dates: 2019, August

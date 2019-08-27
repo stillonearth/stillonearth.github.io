@@ -5,7 +5,6 @@
   dates: 2011 - 2012
   description: >
     Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
-    |
     During my time at Ostrovok I've learned what proper tech company should look like, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python, but real thing was culture of course.
 - layout: top
   company: Shopster
@@ -14,7 +13,6 @@
   dates: 2013 - 2015
   description: >
     Indoor Navigation and footfall Analytics with WiFi singal probing.
-    |
     Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
 - layout: top
   company: self-employed
