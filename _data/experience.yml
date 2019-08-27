@@ -3,24 +3,22 @@
   link: ostrovok.ru
   job_title: Programmer
   dates: 2011 - 2012
-  quote: >
-    Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
   description: >
+    Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
+    |
     During my time at Ostrovok I've learned what proper tech company should look like, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python, but real thing was culture of course.
 - layout: left
   company: Shopster
   link: getshopster.com
   job_title: Programmer
   dates: 2013 - 2015
-  quote: >
-    Inndor Navigation and Foot-fall Analytics by means of WiFi sniffing
   description: >
-    Shopster was a logical continuation of my MAI diploma. Idea was that people get lost in malls and solution was to use ambient wireless signal to help them track their way indors. Another cool singal was ambient magnetic fields, and it made solution even more precise. Real world needed something else than just cool tech, so company pivoted to "Google Analytics for people counting" by tapping WiFi signals form their phones. The team was assembled and then funding raised. Then I was fired. Cool.
+    Indoor Navigation and footfall Analytics with WiFi singal probing.
+    |
+    Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
 - layout: left
   company: self-employed
   job_title: Programmer
   dates: 2015 - now
-  quote: >
-    Mostly Computer Science
   description: >
-    Mostly keeping up with latest Computer Science. Neural Networks, Reinforcement Learning, Quantum Computers and Robotics
+    Keeping up with latest discoveries in Computer Science such as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
