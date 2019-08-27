@@ -1,9 +1,26 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Ostrovok.ru
+  link: ostrovok.ru
+  job_title: Programmer
+  dates: 2011 - 2012
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    During my time at Ostrovok I've learned what proper tech company should look like, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python, but real thing was culture of course.
+- layout: left
+  company: Ostrovok.ru
+  link: ostrovok.ru
+  job_title: Programmer
+  dates: 2013 - 2015
+  quote: >
+    Shopster was a logical continuation of my MAI diploma. Idea was that people get lost in malls and solution was to use ambient wireless signal to help them track their way indors. Another cool singal was ambient magnetic fields, and it made solution even more precise. Real world needed something else than just cool tech, so company pivoted to "Google Analytics for people counting" by tapping WiFi signals form their phones. The team was assembled and then funding raised. Then I was fired. Cool.
+  description: | # this will include new lines to allow paragraphs
+    Well, starups are cool. And hard. And you wear multiple hats. The project is still alive which is cool.
+- layout: left
+  company: self-employed
+  job_title: Hobo-Programmer
+  dates: 2015 - now
+  quote: >
+    Mostly keeping up with latest Computer Science. Neural Networks, Reinforcement Learning, Quantum Computers and Robotics
+  description: | # this will include new lines to allow paragraphs
+    25 through 30.
