@@ -9,7 +9,7 @@
   description: PID-controller in C++ for a Quadcopters
   dates: 2018, September
 - layout: top
-  name: Udacity Flying Car Nanodegree - Estiamtion
+  name: Udacity Flying Car Nanodegree - Estimation
   link: https://github.com/cwiz/udacity-flying-car-cpp-estimation/blob/master/WRITEUP.md
   description: Kalman Filter in C++ for estimating quadcopter's state in real-world environment
   dates: 2018, October
@@ -19,7 +19,7 @@
   description: Mars Rover exploring Mars surface and collecting yellow stones.
   dates: 2018, December
 - layout: top
-  name: Udacity Robotics Software Engineer Nanodegree - Mars Rover
+  name: Udacity Robotics Software Engineer Nanodegree - Kinematics
   link: https://github.com/cwiz/RoboND-Kinematics-Project/blob/master/README.md
   description: A robotic arm in simulated Gazebo environment has to perform pick-and-place using Robot Operating System. Inverse and forward kinematics, industrial robots.
   dates: 2019, March
