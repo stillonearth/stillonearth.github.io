@@ -41,13 +41,13 @@
   description: Our fellow quadcopter returns, but now equipped with neural networks it has to find and ~~destroy~~ follow target. Semantic Segmentation.
   dates: 2019, May
 - layout: top
-  name: Using Deep-Q-Networks (DQN) for solving Unity ML Agents Banana Collector discreet control environment and evaluating DQN improvements
+  name: Using Deep-Q-Networks (DQN) for solving Unity ML Agents Banana Collector Discreet Control Environment and Evaluating DQN Improvements
   job_title: Udacity Deep Reinforcement Learning Nanodegree
   link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
   description: An agent collecting bananas in square world. Discreet control, Deep-Q-Networks (DQN).
   dates: 2019, July
 - layout: top
-  name: Using Policy Optimization (PO) algorithms Soft Actor-Critic (SAC) and Proximal Policy Optimization (PPO) for solving Unity ML Reacher and Crawler continous control environments  
+  name: Using Policy Optimization (PO) Algorithms Soft Actor-Critic (SAC) and Proximal Policy Optimization (PPO) for Solving Unity ML Reacher and Crawler Continous Control Environments  
   job_title: Udacity Deep Reinforcement Learning Nanodegree
   link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/master/WRITEUP.md
   description: Two environments. Robotic Arm and Ant-Robot have to learn their jobs to reach a target and to walk. Using Policy Optimization to air their learning. Soft Actor-Critics (SSA), Proximal Policy Optimization (PPO).
