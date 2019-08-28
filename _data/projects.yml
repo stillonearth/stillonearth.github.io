@@ -17,7 +17,7 @@
   description: Kalman Filter in C++ for estimating quadcopter's state in real-world environment
   dates: 2018, October
 - layout: top
-  name: Mars Rover Search and Sampel Return
+  name: Mars Rover Perception and Decision Making for Solving Search and Sample Return
   job_title: Udacity Robotics Software Engineer Nanodegree
   link: https://github.com/cwiz/RoboND-Rover-Project/blob/master/README.md
   description: Mars Rover exploring Mars surface and collecting yellow stones.
