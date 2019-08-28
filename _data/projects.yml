@@ -35,7 +35,7 @@
   description: Using PR2 robot's 3D-camera to identify objects. Point clouds.
   dates: 2019, March
 - layout: top
-  name: Semantic Segmentation with Fully-Convolutional Neural Network for identifying and followin a human target by a Quadcopter
+  name: Semantic Segmentation with Fully-Convolutional Neural Network for Identifying and Following a Human Target by a Quadcopter
   job_title: Udacity Robotics Software Engineer Nanodegree
   link: https://github.com/cwiz/RoboND-DeepLearning-Project
   description: Our fellow quadcopter returns, but now equipped with neural networks it has to find and ~~destroy~~ follow target. Semantic Segmentation.
