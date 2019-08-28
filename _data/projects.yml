@@ -23,13 +23,13 @@
   description: Mars Rover exploring Mars surface and collecting yellow stones.
   dates: 2018, December
 - layout: top
-  name: Kinematics Pick & Place for KUKA KR210 Robotic Arm in Gazebo virtual environment and Robot Operation System (ROS)
+  name: Kinematics Pick & Place for KUKA KR210 Robotic Arm in Gazebo Virtual Environment and Robot Operation System (ROS)
   job_title: Udacity Robotics Software Engineer Nanodegree
   link: https://github.com/cwiz/RoboND-Kinematics-Project/blob/master/README.md
   description: A robotic arm in simulated Gazebo environment has to perform pick-and-place using Robot Operating System. Inverse and forward kinematics, industrial robots.
   dates: 2019, March
 - layout: top
-  name: 3D perception with point-cloud camera for Willow Garage PR2 Robot in Gazebo virtual environment and Robot Operation System (ROS)
+  name: 3D Perception with Point-Cloud Camera for Willow Garage PR2 Robot in Gazebo Virtual Environment and Robot Operation System (ROS)
   job_title: Udacity Robotics Software Engineer Nanodegree
   link: https://github.com/cwiz/RoboND-Perception-Project/blob/master/README.md
   description: Using PR2 robot's 3D-camera to identify objects. Point clouds.
