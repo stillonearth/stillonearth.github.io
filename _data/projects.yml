@@ -1,5 +1,9 @@
 - layout: top
-  name: (DRAFT) Using Policy Optimization (PO) Algorithms for Solving Zero-Sum Games with Self-Play  
+  name: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
+  link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
+  dates: 2019, November
+- layout: top
+  name: Using Policy Optimization (PO) Algorithms for Solving Zero-Sum Games with Self-Play  
   job_title: Udacity Deep Reinforcement Learning Nanodegree
   link: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/WRITEUP.md
   dates: 2019, September
