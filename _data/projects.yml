@@ -1,5 +1,8 @@
 - layout: top
-  name: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
+  name: (PLANNING) Reimplementing Alpha-Zero for board game of Go
+  dates: 2019, December
+- layout: top
+  name: (DRAFT, ON HALT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
   link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
   dates: 2019, November
 - layout: top
