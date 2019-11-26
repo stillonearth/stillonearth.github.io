@@ -1,5 +1,6 @@
 - layout: top
   name: Reimplementing Alpha-Zero for board game of Go
+  link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
   dates: 2019, December
 - layout: top
   name: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
