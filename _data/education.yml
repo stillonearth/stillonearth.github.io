@@ -5,3 +5,14 @@
   description: >
     The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
     During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
+    - layout: top
+  name: Udacity
+  dates: 2018-2019
+  qualification: Software Engineer
+  description: >
+    Courses:
+    
+    * Flying Car and Autonomous Flight Engineer
+    * Robotics Software Engineer
+    * Deep Reinforcement Learning
+    * AI for Trading
