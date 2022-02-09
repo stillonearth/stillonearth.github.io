@@ -25,3 +25,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+theme: jekyll-theme-minimal
