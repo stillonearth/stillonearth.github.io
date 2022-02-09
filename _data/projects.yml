@@ -1,4 +1,8 @@
 - layout: top
+  name: Checkers Ugolki game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
+  link: https://github.com/stillonearth/CheckersOnBevy
+  dates: 2022, January
+- layout: top
   name: Reimplementing Alpha-Zero for board game of Go
   link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
   dates: 2019, December
