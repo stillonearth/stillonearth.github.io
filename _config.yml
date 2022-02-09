@@ -10,21 +10,9 @@ email: ssurovsev@gmail.com
 # Social links
 github_username:  stillonearth
 
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
