@@ -1,6 +1,7 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
+version: 2
 
 # Personal info
 name: Sergei Surovtsev
@@ -9,6 +10,7 @@ email: ssurovsev@gmail.com
 
 # Social links
 github_username:  stillonearth
+darkmode: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -16,6 +18,3 @@ remote_theme: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
