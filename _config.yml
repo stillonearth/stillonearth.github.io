@@ -9,8 +9,8 @@ title: Programmer
 email: ssurovsev@gmail.com
 
 # Social links
-github_usertitle:  stillonearth
-darkmode: true
+github_usertitle: stillonearth
+darkmode: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -19,18 +19,18 @@ sass:
   sass_dir: _sass
   style: compressed
   
- content:
+content:
   - title: Education
     layout: list
     content:
-    - layout: top
+    - layout: left
       title: Moscow Aviation Institute
       caption: 2006 - 2013
       sub_title: MSc Computer Science
       description: >
         The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
         During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
-    - layout: top
+    - layout: left
       title: Udacity
       caption: 2018-2019
       qualification: Software Engineer
@@ -44,13 +44,13 @@ sass:
   - title: Experience
     layout: list
     content:
-      - layout: top
+      - layout: left
         title: self-employed
         sub_title: Programmer
         caption: 2015 - now
         description: >
           Spinning up Computer Science in such fields of research as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
-      - layout: top
+      - layout: left
         title: Shopster
         link: getshopster.com
         sub_title: Programmer
@@ -58,7 +58,7 @@ sass:
         description: >
           Indoor Navigation and footfall Analytics with WiFi singal probing.
           Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
-      - layout: top
+      - layout: left
         title: Ostrovok.ru
         link: ostrovok.ru
         sub_title: Programmer
