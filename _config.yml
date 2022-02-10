@@ -19,6 +19,10 @@ sass:
   sass_dir: _sass
   style: compressed
   
+
+about_content: | # this will include new lines to allow paragraphs
+  Hey, I'm Sergey, a software developer from Moscow Russia. I've been on startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics and Simulators. Game engines, Rust and RL are my current passions.
+
 content:
   - title: Education
     layout: list
