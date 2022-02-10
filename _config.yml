@@ -42,8 +42,11 @@ content:
         Courses:
 
         * Flying Car and Autonomous Flight Engineer
+        
         * Robotics Software Engineer
+        
         * Deep Reinforcement Learning
+        
         * AI for Trading
   - title: Experience
     layout: list
