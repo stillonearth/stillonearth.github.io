@@ -4,12 +4,12 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sergei Surovtsev
+title: Sergei Surovtsev
 title: Programmer
 email: ssurovsev@gmail.com
 
 # Social links
-github_username:  stillonearth
+github_usertitle:  stillonearth
 darkmode: true
 
 # Build settings
@@ -24,14 +24,14 @@ sass:
     layout: list
     content:
     - layout: top
-      name: Moscow Aviation Institute
+      title: Moscow Aviation Institute
       caption: 2006 - 2013
       sub_title: MSc Computer Science
       description: >
         The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
         During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
     - layout: top
-      name: Udacity
+      title: Udacity
       caption: 2018-2019
       qualification: Software Engineer
       description: >
@@ -41,3 +41,93 @@ sass:
         * Robotics Software Engineer
         * Deep Reinforcement Learning
         * AI for Trading
+  - title: Experience
+    layout: list
+    content:
+      - layout: top
+        title: self-employed
+        sub_title: Programmer
+        caption: 2015 - now
+        description: >
+          Spinning up Computer Science in such fields of research as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
+      - layout: top
+        title: Shopster
+        link: getshopster.com
+        sub_title: Programmer
+        caption: 2013 - 2015
+        description: >
+          Indoor Navigation and footfall Analytics with WiFi singal probing.
+          Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
+      - layout: top
+        title: Ostrovok.ru
+        link: ostrovok.ru
+        sub_title: Programmer
+        caption: 2011 - 2012
+        description: >
+          Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
+          During my time at Ostrovok I've learned what proper tech company should be, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python.
+  - title: Projects
+    layout: list
+    content:
+    - layout: top
+      title: Checkers Ugolki game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
+      link: https://github.com/stillonearth/CheckersOnBevy
+      caption: 2022, January
+    - layout: top
+      title: Reimplementing Alpha-Zero for board game of Go
+      link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
+      caption: 2019, December
+    - layout: top
+      title: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
+      link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
+      caption: 2019, November
+    - layout: top
+      title: Using Policy Optimization (PO) Algorithms for Solving Zero-Sum Games with Self-Play  
+      job_title: Udacity Deep Reinforcement Learning Nanodegree
+      link: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/WRITEUP.md
+      caption: 2019, September
+    - layout: top
+      title: Using Policy Optimization (PO) Algorithms Soft Actor-Critic (SAC) and Proximal Policy Optimization (PPO) for Solving Unity ML Reacher and Crawler Continous Control Environments  
+      job_title: Udacity Deep Reinforcement Learning Nanodegree
+      link: https://github.com/cwiz/DRLND-Project-Continuous_Control/blob/master/WRITEUP.md
+      caption: 2019, August
+    - layout: top
+      title: Using Deep-Q-Networks (DQN) for solving Unity ML Agents Banana Collector Discreet Control Environment and Evaluating DQN Improvements
+      job_title: Udacity Deep Reinforcement Learning Nanodegree
+      link: https://github.com/cwiz/DRLND-Project-Navigation/blob/master/WRITEUP.md
+      caption: 2019, July
+    - layout: top
+      title: Semantic Segmentation with Fully-Convolutional Neural Network for Identifying and Following a Human Target by a Quadcopter
+      job_title: Udacity Robotics Software Engineer Nanodegree
+      link: https://github.com/cwiz/RoboND-DeepLearning-Project
+      caption: 2019, May
+    - layout: top
+      title: 3D Perception with Point-Cloud Camera for Willow Garage PR2 Robot in Gazebo Virtual Environment and Robot Operation System (ROS)
+      job_title: Udacity Robotics Software Engineer Nanodegree
+      link: https://github.com/cwiz/RoboND-Perception-Project/blob/master/README.md
+      caption: 2019, March
+    - layout: top
+      title: Kinematics Pick & Place for KUKA KR210 Robotic Arm in Gazebo Virtual Environment and Robot Operation System (ROS)
+      job_title: Udacity Robotics Software Engineer Nanodegree
+      link: https://github.com/cwiz/RoboND-Kinematics-Project/blob/master/README.md
+      caption: 2019, March
+    - layout: top
+      title: Mars Rover Perception and Decision Making for Solving Search and Sample Return
+      job_title: Udacity Robotics Software Engineer Nanodegree
+      link: https://github.com/cwiz/RoboND-Rover-Project/blob/master/README.md
+      caption: 2018, December
+    - layout: top
+      title: Quadcopter State Estimation with Kalman Filtering in C++
+      job_title: Udacity Flying Car Nanodegree
+      link: https://github.com/cwiz/udacity-flying-car-cpp-estimation/blob/master/WRITEUP.md
+      caption: 2018, October
+    - layout: top
+      title: Quadcopter Motion Planning in Urban Environment
+      job_title: Udacity Flying Car Nanodegree
+      link: https://github.com/cwiz/udacity-flying-car-motion-planning/blob/master/WRITEUP.md
+      caption: 2018, September
+    - layout: top
+      title: PID Controls for Quadcopter in C++
+      job_title: Udacity Flying Car Nanodegree
+      link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
+      caption: 2018, September
