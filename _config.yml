@@ -10,7 +10,6 @@ email: ssurovsev@gmail.com
 
 # Social links
 github_usertitle: stillonearth
-darkmode: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -73,7 +72,7 @@ content:
         description: >
           Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
           During my time at Ostrovok I've learned what proper tech company should be, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python.
-  - title: Projects
+  - title: Projects 
     layout: list
     content:
     - layout: top
