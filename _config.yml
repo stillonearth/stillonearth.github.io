@@ -76,7 +76,7 @@ content:
     layout: list
     content:
     - layout: top
-      title: Checkers Ugolki game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
+      title: Checkers Game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
       link: https://github.com/stillonearth/CheckersOnBevy
       caption: 2022, January
     - layout: top
