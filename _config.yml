@@ -23,55 +23,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, I'm Sergey, a software developer from Moscow Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
 
 content:
-  - title: Education
-    layout: list
-    content:
-    - layout: left
-      title: Moscow Aviation Institute
-      caption: 2006 - 2013
-      sub_title: MSc Computer Science
-      description: >
-        The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
-        During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
-    - layout: left
-      title: Udacity
-      caption: 2018-2019
-      qualification: Software Engineer
-      description: >
-        Courses:
-
-        * Flying Car and Autonomous Flight Engineer
-        
-        * Robotics Software Engineer
-        
-        * Deep Reinforcement Learning
-        
-        * AI for Trading
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: self-employed
-        sub_title: Programmer
-        caption: 2015 - now
-        description: >
-          Spinning up Computer Science in such fields of research as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
-      - layout: left
-        title: Shopster
-        link: getshopster.com
-        sub_title: Programmer
-        caption: 2013 - 2015
-        description: >
-          Indoor Navigation and footfall Analytics with WiFi singal probing.
-          Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
-      - layout: left
-        title: Ostrovok.ru
-        link: ostrovok.ru
-        sub_title: Programmer
-        caption: 2011 - 2012
-        description: >
-          Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
-          During my time at Ostrovok I've learned what proper tech company should be, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python.
   - title: Projects 
     layout: list
     content:
@@ -137,3 +88,52 @@ content:
       job_title: Udacity Flying Car Nanodegree
       link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
       caption: 2018, September
+  - title: Education
+    layout: list
+    content:
+    - layout: left
+      title: Moscow Aviation Institute
+      caption: 2006 - 2013
+      sub_title: MSc Computer Science
+      description: >
+        The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
+        During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
+    - layout: left
+      title: Udacity
+      caption: 2018-2019
+      qualification: Software Engineer
+      description: >
+        Courses:
+
+        * Flying Car and Autonomous Flight Engineer
+        
+        * Robotics Software Engineer
+        
+        * Deep Reinforcement Learning
+        
+        * AI for Trading
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: self-employed
+        sub_title: Programmer
+        caption: 2015 - now
+        description: >
+          Spinning up Computer Science in such fields of research as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
+      - layout: left
+        title: Shopster
+        link: getshopster.com
+        sub_title: Programmer
+        caption: 2013 - 2015
+        description: >
+          Indoor Navigation and footfall Analytics with WiFi singal probing.
+          Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
+      - layout: left
+        title: Ostrovok.ru
+        link: ostrovok.ru
+        sub_title: Programmer
+        caption: 2011 - 2012
+        description: >
+          Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
+          During my time at Ostrovok I've learned what proper tech company should be, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python.
