@@ -27,7 +27,7 @@ content:
     layout: list
     content:
     - layout: top
-      title: Minimal FPS Game Gym Environment with Bevy and DQN Agent
+      title: Minimal FPS Game Gym Environment with Bevy and DQN Agent for Solving Environment
       link: https://github.com/stillonearth/BevyStein
       caption: 2022, February 
     - layout: top
