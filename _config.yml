@@ -27,6 +27,10 @@ content:
     layout: list
     content:
     - layout: top
+      title: Minimal FPS Game Gym Environment with Bevy and DQN Agent
+      link: https://github.com/stillonearth/BevyStein
+      caption: 2022, February 
+    - layout: top
       title: Checkers Game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
       link: https://github.com/stillonearth/CheckersOnBevy
       caption: 2022, January
