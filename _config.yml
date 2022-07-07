@@ -31,11 +31,11 @@ content:
       link: https://github.com/stillonearth/CheckersOnBevy
       caption: 2022, January
     - layout: top
-      title: [DRAFT] Summer Game Fest 2022 Entry with Bevy
+      title: (DRAFT) Summer Game Fest 2022 Entry with Bevy
       link: https://github.com/stillonearth/cult-of-b
       caption: 2022, June
     - layout: top
-      title: [DRAFT] Backgammon with Unreal Engine 5
+      title: (DRAFT) Backgammon with Unreal Engine 5
       link: https://github.com/stillonearth/UnrealBackgammon
       caption: 2022, August
   - title: Open-Source Libraries 
@@ -48,7 +48,7 @@ content:
     layout: list
     content:
     - layout: top
-      title: [DRAFT] Meta-Trained Continuous Control System for Robotic Dog Unitree G1
+      title: (DRAFT) Meta-Trained Continuous Control System for Robotic Dog Unitree G1
       link: https://github.com/stillonearth/continuous_control-unitree-g1
       caption: 2022, June
     - layout: top
@@ -64,7 +64,7 @@ content:
       link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
       caption: 2019, December
     - layout: top
-      title: [DRAFT] Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
+      title: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
       link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
       caption: 2019, November
     - layout: top
