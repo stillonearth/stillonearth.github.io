@@ -23,9 +23,34 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, I'm Sergey, a software developer from Moscow Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
 
 content:
-  - title: Projects 
+  - title: Games 
     layout: list
     content:
+    - layout: top
+      title: Checkers with Bevy
+      link: https://github.com/stillonearth/CheckersOnBevy
+      caption: 2022, January
+    - layout: top
+      title: [DRAFT] Summer Game Fest 2022 Entry with Bevy
+      link: https://github.com/stillonearth/cult-of-b
+      caption: 2022, June
+    - layout: top
+      title: [DRAFT] Backgammon with Unreal Engine 5
+      link: https://github.com/stillonearth/UnrealBackgammon
+      caption: 2022, August
+  - title: Open-Source Libraries 
+    layout: list
+    content:
+    - layout: top
+      title: bevy_rl — Reinfocement Learning for Bevy
+      link: https://github.com/stillonearth/bevy_rl
+  - title: Research Projects and AI Recipes
+    layout: list
+    content:
+    - layout: top
+      title: [DRAFT] Meta-Trained Continuous Control System for Robotic Dog Unitree G1
+      link: https://github.com/stillonearth/continuous_control-unitree-g1
+      caption: 2022, June
     - layout: top
       title: Minimal FPS Game Gym Environment with Bevy and DQN Agent for Solving Environment
       link: https://github.com/stillonearth/BevyStein
@@ -39,7 +64,7 @@ content:
       link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
       caption: 2019, December
     - layout: top
-      title: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
+      title: [DRAFT] Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
       link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
       caption: 2019, November
     - layout: top
