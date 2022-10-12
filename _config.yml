@@ -5,7 +5,7 @@ version: 2
 
 # Personal info
 name: Sergei Surovtsev
-title: Programmer
+title: Computer Programmer
 email: ssurovsev@gmail.com
 
 # Social links
@@ -20,7 +20,7 @@ sass:
   
 
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I'm Sergey, a software developer from Moscow Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
+  Hey, I'm Sergey, a computer programmer from Moscow, Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
 
 content:
   - title: Games 
@@ -120,9 +120,6 @@ content:
       title: Moscow Aviation Institute
       caption: 2006 - 2013
       sub_title: Engineer
-      description: >
-        The university laid emphasis on laboratory instruction in applied science and engineering, specific to demands of the aerospace industry.
-        During my years at MAI I have learned foundational skills related of computer modelling applied to aeronautics and space. My specialization was in Global Satellite Navigation Systems (GNSS) and final qualification project was about Indoor Navigation. Later this grew into company named Shopster.
     - layout: left
       title: Udacity
       caption: 2018-2019
@@ -145,20 +142,18 @@ content:
         sub_title: Programmer
         caption: 2015 - now
         description: >
-          Spinning up Computer Science in such fields of research as Neural Networks, Reinforcement Learning, Quantum Computing and Robotics.
+          Neural Networks, Reinforcement Learning and Robotics.
       - layout: left
         title: Shopster
         link: getshopster.com
-        sub_title: Programmer
+        sub_title: Co-founder
         caption: 2013 - 2015
         description: >
-          Indoor Navigation and footfall Analytics with WiFi singal probing.
-          Shopster grew as a continuation of my University diploma. Idea was that people get lost in malls and solution was to use ambient wireless signals to build indoor mapping with particle filters. Ambient magnetic fields were added as another rich singal source later. Company eventualy pivoted into commercial foot traffic analytics and now is being used by malls and reatail stores.
+          Indoor Navigation and footfall analytics with wireless singal probing.
       - layout: left
         title: Ostrovok.ru
         link: ostrovok.ru
-        sub_title: Programmer
+        sub_title: Developer
         caption: 2011 - 2012
         description: >
-          Ostrovok.ru is a Russian online hotel booking service, founded in 2010 by Serge Faguet and Kirill Makharinsky. It has over one million accommodation options. 
-          During my time at Ostrovok I've learned what proper tech company should be, how important company culture is and what Google-esqe values are. I've been mostly involved with programming web with python.
+          Online hotel booking service.
