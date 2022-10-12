@@ -118,11 +118,13 @@ content:
     content:
     - layout: left
       title: Moscow Aviation Institute
-      caption: 2006 - 2013
+      caption: 2006 — 2013
       sub_title: Engineer
+      description: >
+        Specialized in high-precision solution of sighting and navigation tasks based on satellite navigation systems (GLONASS/GPS), including navigation tasks with robotic complexes.
     - layout: left
       title: Udacity
-      caption: 2018-2019
+      caption: 2018 — 2019
       qualification: Software Engineer
       description: >
         Courses:
@@ -140,20 +142,20 @@ content:
       - layout: left
         title: self-employed
         sub_title: Programmer
-        caption: 2015 - now
+        caption: 2015 — now
         description: >
           Neural Networks, Reinforcement Learning and Robotics.
       - layout: left
         title: Shopster
         link: getshopster.com
         sub_title: Co-founder
-        caption: 2013 - 2015
+        caption: 2013 — 2015
         description: >
           Indoor Navigation and footfall analytics with wireless singal probing.
       - layout: left
         title: Ostrovok.ru
         link: ostrovok.ru
         sub_title: Developer
-        caption: 2011 - 2012
+        caption: 2011 — 2012
         description: >
           Online hotel booking service.
