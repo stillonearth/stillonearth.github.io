@@ -44,9 +44,9 @@ content:
     layout: list
     content:
     - layout: top
-      title: (DRAFT) Continous Control with Deep Reinforcement Learning for Unitree Go-1 Quadruped Robot
+      title: Continous Control with Deep Reinforcement Learning for Unitree Go-1 Quadruped Robot
       link: https://github.com/stillonearth/continuous_control-unitree-g1
-      caption: 2022, June — October
+      caption: 2022, October
     - layout: top
       title: Minimal FPS Game Gym Environment with Bevy and DQN Agent for Solving Environment
       link: https://github.com/stillonearth/BevyStein
