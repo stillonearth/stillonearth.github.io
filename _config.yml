@@ -60,10 +60,6 @@ content:
       link: https://github.com/cwiz/guided_monte_carlo_tree-search/blob/master/Tree-Search.ipynb
       caption: 2019, December
     - layout: top
-      title: (DRAFT) Autonomous Robot with LEGO Mindstorm, NVIDIA Jetson Nano and ROS
-      link: https://github.com/cwiz/autonomous-lego-nvidia-jetson-robot
-      caption: 2019, November
-    - layout: top
       title: Using Policy Optimization (PO) Algorithms for Solving Zero-Sum Games with Self-Play  
       job_title: Udacity Deep Reinforcement Learning Nanodegree
       link: https://github.com/cwiz/DRLND-Project-Collab-Compet/blob/master/WRITEUP.md
