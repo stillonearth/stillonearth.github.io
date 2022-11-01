@@ -30,13 +30,16 @@ content:
       title: Checkers with Bevy
       link: https://github.com/stillonearth/CheckersOnBevy
       caption: 2022, January
+      content: | # test
     - layout: top
       title: Cult of Biboran
+      caption: 2022, July
       link: https://github.com/stillonearth/cult-of-biboran
     - layout: top
       title: Stack Rank Dice
+      sub_title: for @quentusrex
       link: https://github.com/stillonearth/stackrankdice
-      caption: 2022, November — for @quentusrex
+      caption: 2022, November
   - title: Open-Source Libraries 
     layout: list
     content:
