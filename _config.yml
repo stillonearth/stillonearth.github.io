@@ -135,9 +135,9 @@ content:
       description: >
         Classes:
 
-        * Flying Car and Autonomous Flight Engineer
+        * Flying Car and Autonomous Flight
         
-        * Robotics Software Engineer
+        * Robotics Software
         
         * Deep Reinforcement Learning
         
@@ -145,23 +145,23 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top
         title: self-employed
-        sub_title: Programmer
+        sub_title: Developer
         caption: 2015 — now
         description: >
-          Neural networks, reinforcement learning and robotics.
-      - layout: left
+          Neural networks, reinforcement learning and robotics
+      - layout: top
         title: Shopster
         link: getshopster.com
         sub_title: Co-founder
         caption: 2013 — 2015
         description: >
-          Indoor Navigation and footfall analytics with wireless singal probing.
-      - layout: left
+          Indoor Navigation and footfall analytics with wireless singal probing
+      - layout: top
         title: Ostrovok.ru
         link: ostrovok.ru
         sub_title: Developer
         caption: 2011 — 2012
         description: >
-          Online hotel booking service.
+          Online hotel booking service
