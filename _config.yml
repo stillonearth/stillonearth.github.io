@@ -56,9 +56,9 @@ content:
       link: https://github.com/stillonearth/continuous_control-unitree-g1
       caption: 2022, October
     - layout: top
-      title: Minimal FPS Game Gym Environment with Bevy and DQN Agent for Solving Environment
-      link: https://github.com/stillonearth/BevyStein
-      caption: 2022, February 
+      title: Multi-Agent FPS Gym Environment with bevy_rl
+      link: https://github.com/stillonearth/bevy_rl_shooter
+      caption: 2022 
     - layout: top
       title: Checkers Game on Rust and Bevy, OpenAI Gym Environment and AI Agent based on Monte Carlo Tree Search (MCTS) with neural heuristics (AlphaZero) on Python and PyTorch
       link: https://github.com/stillonearth/CheckersOnBevy
