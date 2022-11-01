@@ -128,14 +128,12 @@ content:
       title: Moscow Aviation Institute
       caption: 2006 — 2013
       sub_title: Engineer
-      description: >
-        Specialized in high-precision solution of sighting and navigation tasks based on satellite navigation systems (GLONASS/GPS), including navigation tasks with robotic complexes.
     - layout: left
       title: Udacity
       caption: 2018 — 2019
       qualification: Software Engineer
       description: >
-        Courses:
+        Classes:
 
         * Flying Car and Autonomous Flight Engineer
         
