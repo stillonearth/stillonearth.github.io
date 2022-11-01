@@ -30,9 +30,9 @@ content:
       title: Checkers with Bevy
       link: https://github.com/stillonearth/CheckersOnBevy
       caption: 2022, January
-      content: | # test
     - layout: top
       title: Cult of Biboran
+      sub_title: Summer Game Jam 2022 Entry
       caption: 2022, July
       link: https://github.com/stillonearth/cult-of-biboran
     - layout: top
@@ -55,11 +55,12 @@ content:
     layout: list
     content:
     - layout: top
-      title: Continous Control with Deep Reinforcement Learning for Unitree Go-1 Quadruped Robot
-      link: https://github.com/stillonearth/continuous_control-unitree-g1
+      title: Continous Control with Deep Reinforcement Learning for Unitree A1 Quadruped Robot
+      link: https://github.com/stillonearth/continuous_control-unitree-a1
       caption: 2022, October
     - layout: top
       title: Multi-Agent FPS Gym Environment with bevy_rl
+      sub_title: Bevy Jam #1 Entry
       link: https://github.com/stillonearth/bevy_rl_shooter
       caption: 2022 
     - layout: top
