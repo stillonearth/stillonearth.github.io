@@ -60,7 +60,7 @@ content:
       caption: 2022, October
     - layout: top
       title: Multi-Agent FPS Gym Environment with bevy_rl
-      sub_title: Bevy Jam #1 Entry
+      sub_title: Bevy Jam \#1 Entry
       link: https://github.com/stillonearth/bevy_rl_shooter
       caption: 2022 
     - layout: top
