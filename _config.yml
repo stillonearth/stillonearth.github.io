@@ -38,8 +38,11 @@ content:
     layout: list
     content:
     - layout: top
-      title: bevy_rl — Reinfocement Learning for Bevy
+      title: bevy_rl — 🏗️ Build 🤔 Reinforcement Learning 🏋🏿‍♂️ Gym environments with 🕊 Bevy engine to train 👾 AI agents that 💡 learn from 📺 screen pixels
       link: https://github.com/stillonearth/bevy_rl
+    - layout: top
+      title: bevy_dice — 🎲Dice Rolls for 🕊 Bevy
+      link: https://github.com/stillonearth/bevy_dice
   - title: Research Projects and AI Recipes
     layout: list
     content:
