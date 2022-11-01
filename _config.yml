@@ -33,7 +33,10 @@ content:
     - layout: top
       title: Cult of Biboran
       link: https://github.com/stillonearth/cult-of-biboran
-      caption: 2022, June — itch.io Summer Game Jam 2022
+    - layout: top
+      title: Stack Rank Dice
+      link: https://github.com/stillonearth/stackrankdice
+      caption: 2022, November — for @quentusrex
   - title: Open-Source Libraries 
     layout: list
     content:
