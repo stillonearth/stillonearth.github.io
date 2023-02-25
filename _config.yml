@@ -55,6 +55,10 @@ content:
       caption: Build robotic simulations with Bevy and MuJoCo
       title: bevy_mujoco
       link: https://github.com/stillonearth/bevy_mujoco
+    - layout: top
+      caption: Compact one-file implementations of some RL algorithms
+      title: jax-rl
+      link: https://github.com/stillonearth/jax-rl
   - title: Research Projects and AI Recipes
     layout: list
     content:
