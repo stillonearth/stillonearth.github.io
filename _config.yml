@@ -56,7 +56,7 @@ content:
       title: bevy_mujoco
       link: https://github.com/stillonearth/bevy_mujoco
     - layout: top
-      caption: Compact one-file implementations of some RL algorithms
+      caption: Compact one-file implementations of some RL algorithms in JAX
       title: jax-rl
       link: https://github.com/stillonearth/jax-rl
   - title: Research Projects and AI Recipes
