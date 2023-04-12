@@ -42,7 +42,7 @@ content:
       caption: 2022, November
     - layout: top
       title: BackgammonOnBevy
-      sub_title: Bevy Game Jam #3 Entry
+      sub_title: Bevy Game Jam 3 Entry
       link: https://github.com/stillonearth/bevy_backgammon
       caption: 2023, April
   - title: Open-Source Libraries 
