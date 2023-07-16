@@ -23,28 +23,6 @@ about_content: | # this will include new lines to allow paragraphs
   Hey, I'm Sergey, a computer programmer from Moscow, Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
 
 content:
-  - title: Games 
-    layout: list
-    content:
-    - layout: top
-      title: CheckersOnBevy
-      link: https://github.com/stillonearth/CheckersOnBevy
-      caption: 2022, January
-    - layout: top
-      title: Cult of Biboran
-      sub_title: Summer Game Jam 2022 Entry
-      caption: 2022, July
-      link: https://github.com/stillonearth/cult-of-biboran
-    - layout: top
-      title: Stack Rank Dice
-      sub_title: for @quentusrex
-      link: https://github.com/stillonearth/stackrankdice
-      caption: 2022, November
-    - layout: top
-      title: BackgammonOnBevy
-      sub_title: Bevy Game Jam 3 Entry
-      link: https://github.com/stillonearth/bevy_backgammon
-      caption: 2023, April
   - title: Open-Source Libraries 
     layout: list
     content:
@@ -134,6 +112,28 @@ content:
       job_title: Udacity Flying Car Nanodegree
       link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
       caption: 2018, September
+  - title: Games 
+    layout: list
+    content:
+    - layout: top
+      title: BackgammonOnBevy
+      sub_title: Bevy Game Jam 3 Entry
+      link: https://github.com/stillonearth/bevy_backgammon
+      caption: 2023, April
+    - layout: top
+      title: Stack Rank Dice
+      sub_title: for @quentusrex
+      link: https://github.com/stillonearth/stackrankdice
+      caption: 2022, November
+    - layout: top
+      title: Cult of Biboran
+      sub_title: Summer Game Jam 2022 Entry
+      caption: 2022, July
+      link: https://github.com/stillonearth/cult-of-biboran
+    - layout: top
+      title: CheckersOnBevy
+      link: https://github.com/stillonearth/CheckersOnBevy
+      caption: 2022, January
   - title: Education
     layout: list
     content:
