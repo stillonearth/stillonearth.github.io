@@ -38,13 +38,13 @@ content:
       caption: Build robotic simulations with Bevy and MuJoCo
       title: bevy_mujoco
       link: https://github.com/stillonearth/bevy_mujoco
+  - title: Research Projects and AI Recipes
+    layout: list
+    content:
     - layout: top
       caption: Compact one-file implementations of some RL algorithms in JAX
       title: jax-rl
       link: https://github.com/stillonearth/jax-rl
-  - title: Research Projects and AI Recipes
-    layout: list
-    content:
     - layout: top
       title: Continous Control with Deep Reinforcement Learning for Unitree A1 Quadruped Robot
       link: https://github.com/stillonearth/continuous_control-unitree-a1
@@ -112,6 +112,14 @@ content:
       job_title: Udacity Flying Car Nanodegree
       link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
       caption: 2018, September
+  - title: NN Models & Experiments
+    layout: list
+    content:
+    - layout: top
+      title: AI-Driven Pirate Video Translation of YouTube Videos 90s VHS Style
+      link: https://github.com/PiratesAye/pirate-neural-translate
+      caption: 2023, August
+    layout: list
   - title: Games 
     layout: list
     content:
