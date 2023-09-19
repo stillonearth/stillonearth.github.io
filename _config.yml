@@ -42,10 +42,6 @@ content:
     layout: list
     content:
     - layout: top
-      caption: Compact one-file implementations of some RL algorithms in JAX
-      title: jax-rl
-      link: https://github.com/stillonearth/jax-rl
-    - layout: top
       title: Continous Control with Deep Reinforcement Learning for Unitree A1 Quadruped Robot
       link: https://github.com/stillonearth/continuous_control-unitree-a1
       caption: 2022, October
@@ -119,6 +115,10 @@ content:
       title: AI-Driven Pirate Video Translation of YouTube Videos 90s VHS Style
       link: https://github.com/PiratesAye/pirate-neural-translate
       caption: 2023, August
+    - layout: top
+      caption: Compact one-file implementations of some RL algorithms in JAX
+      title: jax-rl
+      link: https://github.com/stillonearth/jax-rl
     layout: list
   - title: Games 
     layout: list
