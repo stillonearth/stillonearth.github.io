@@ -31,10 +31,6 @@ content:
       title: bevy_rl
       link: https://github.com/stillonearth/bevy_rl
     - layout: top
-      caption: Dice Rolls for Bevy
-      title: bevy_dice 
-      link: https://github.com/stillonearth/bevy_dice
-    - layout: top
       caption: Build robotic simulations with Bevy and MuJoCo
       title: bevy_mujoco
       link: https://github.com/stillonearth/bevy_mujoco
