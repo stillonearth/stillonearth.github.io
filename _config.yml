@@ -4,8 +4,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sergei Surovtsev
-title: Computer Programmer
+name: cwiz / stillonearth
 email: ssurovsev@gmail.com
 
 # Social links
@@ -20,7 +19,7 @@ sass:
   
 
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I'm Sergey, a computer programmer from Moscow, Russia. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators and Game Engines. 
+  Hey, I'm stillonearth, previously cwiz and still cwiz elsewhere. I've been on a startup journey, a corporate path and now diving into exciting worlds of AI, Reinforcement Learning, Robotics, Simulators, Game Engines.
 
 content:
   - title: Open-Source Libraries 
