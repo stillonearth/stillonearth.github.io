@@ -37,6 +37,10 @@ content:
       caption: Full-duplex asyncronous communication between two peers with Veilid
       title: veilid_duplex
       link: https://gitlab.com/cwiz/veilid_duplex
+    - layout: top
+      caption: Build two-player turn-based p2p games with Bevy and Veilid 
+      title: bevy_veilid
+      link: https://github.com/stillonearth/bevy_veilid
   - title: Research Projects and AI Recipes
     layout: list
     content:
@@ -122,6 +126,11 @@ content:
   - title: Games 
     layout: list
     content:
+    - layout: top
+      title: Watchtower Defence
+      sub_title: Bevy Game Jam 4 Entry
+      link: https://cwiz.itch.io/watchtower-defence
+      caption: 2023, December
     - layout: top
       title: BackgammonOnBevy
       sub_title: Bevy Game Jam 3 Entry
