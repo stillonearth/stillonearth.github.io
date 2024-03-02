@@ -127,6 +127,11 @@ content:
     layout: list
     content:
     - layout: top
+      title: Legend of Mierda
+      sub_title: Game to support Russian-Mexican polytical prisoner AlexTime
+      link: https://cwiz.itch.io/legend-of-mierda
+      caption: 2023, December
+    - layout: top
       title: Watchtower Defence
       sub_title: Bevy Game Jam 4 Entry
       link: https://cwiz.itch.io/watchtower-defence
