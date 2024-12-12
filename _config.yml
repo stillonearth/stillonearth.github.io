@@ -115,21 +115,18 @@ content:
       job_title: Udacity Flying Car Nanodegree
       link: https://github.com/cwiz/udacity-flying-car-cpp-controls/blob/master/WRITEUP.md
       caption: 2018, September
-  - title: NN Models & Experiments
-    layout: list
-    content:
-    - layout: top
-      title: AI-Driven Pirate Video Translation of YouTube Videos 90s VHS Style
-      link: https://github.com/PiratesAye/pirate-neural-translate
-      caption: 2023, August
-    - layout: top
-      caption: Compact one-file implementations of some RL algorithms in JAX
-      title: jax-rl
-      link: https://github.com/stillonearth/jax-rl
     layout: list
   - title: Games 
     layout: list
     content:
+    - layout: top
+      title: Bevy Cardgame
+      link: https://gitlab.com/VnukCelkina/kakusei-no-sekai-no-kokujo-ni-naru-daiki-no-nisemono
+      caption: 2024, December, GameOff 2024 Entry
+    - layout: top
+      title: Bevy Cardgame
+      link: https://github.com/stillonearth/bevy_cardgame
+      caption: 2024, July, Bevy Jam Entry
     - layout: top
       title: Legend of Mierda
       link: https://cwiz.itch.io/legend-of-mierda
