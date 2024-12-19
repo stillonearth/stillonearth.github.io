@@ -124,14 +124,6 @@ content:
       link: https://gitlab.com/VnukCelkina/kakusei-no-sekai-no-kokujo-ni-naru-daiki-no-nisemono
       caption: 2024, December, GameOff 2024 Entry
     - layout: top
-      title: Bevy Cardgame
-      link: https://github.com/stillonearth/bevy_cardgame
-      caption: 2024, July, Bevy Jam Entry
-    - layout: top
-      title: Legend of Mierda
-      link: https://cwiz.itch.io/legend-of-mierda
-      caption: 2024, July
-    - layout: top
       title: Watchtower Defence
       sub_title: Bevy Game Jam 4 Entry
       link: https://cwiz.itch.io/watchtower-defence
