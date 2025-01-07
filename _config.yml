@@ -167,7 +167,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: self-employed
+        title: Unemployed
         sub_title: Developer
         caption: 2015 — now
         description: >
