@@ -159,7 +159,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: Unemployed
+        title: Startups
         sub_title: Developer
         caption: 2015 — now
         description: >
