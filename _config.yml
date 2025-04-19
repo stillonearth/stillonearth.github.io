@@ -138,10 +138,6 @@ content:
     layout: list
     content:
     - layout: top
-      title: Moscow Aviation Institute
-      caption: 2006 — 2013
-      sub_title: Engineer
-    - layout: top
       title: Udacity
       caption: 2018 — 2019
       qualification: Software Engineer
